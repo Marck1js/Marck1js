@@ -6,7 +6,7 @@
  <br/>
  Me he egresado en el Bootcamp de @SoyHenry, donde pude mejorar y adquirir mas conocimiento
  <br/>
- Por el momento sigo mejorando y aprendiendo nuevas tecnologias y desarrolando nuevos proyecto con el fin de mejorar como desarrolador. 
+ Por el momento sigo mejorando y aprendiendo nuevas tecnologias y creando nuevos proyecto con el fin de mejorar como desarrollador. 
  
  En el año 2021 descubri la programacion y el desarrollo web y me encanto, desde ese momento comenzo mi camino 
  en este maravilloso mundo en el cual quiero destacarme, por este motivo siempre estoy aprendiendo constantemente nuevas tecnologias y/o frameworks. Disfruto trabajar en equipo, porque siempre se puede ver
