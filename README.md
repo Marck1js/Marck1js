@@ -3,6 +3,9 @@
 <!--
 **Marck1js/Marck1js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ <img src="gifWelcome.gif" height="500px"/>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
