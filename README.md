@@ -87,8 +87,12 @@ Se puede:
 </p>
  
  
- 
- 
+<h3>Contactame</h3>
+<br/>
+ <ul>
+    <li>LinkedIn: <a href='https://www.linkedin.com/in/marcojuarez/'>Click Aqui</a></li>
+    <li>Email: <a href='#'>marckk63prog@gmail.com</a> <li>
+ </ul>
  
  
 <!--
